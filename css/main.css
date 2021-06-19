@@ -1,4 +1,4 @@
-*{margin:0;padding:0;box-sizing:border-box;border:1px solid black}html,body{height:100%}.form-login{padding:15px;margin:auto}/*!
+*{margin:0;padding:0;box-sizing:border-box;border:1px solid black}html,body{height:100%}.form-login{width:100%;max-width:330px;padding:15px;margin:auto}/*!
  * Bootstrap v5.0.1 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
  * Copyright 2011-2021 Twitter, Inc.
