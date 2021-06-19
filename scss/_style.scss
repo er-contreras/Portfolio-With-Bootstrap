@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+
+html, body {
+  height: 100%;
+}
+
+.form-login {
+  // width: 100%;
+  // max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
